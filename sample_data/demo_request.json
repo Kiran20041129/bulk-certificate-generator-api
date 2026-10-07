@@ -1,0 +1,12 @@
+{
+  "event_name": "AI Workshop 2026",
+  "date": "2026-10-07",
+  "recipients": [
+    {"name": "Kiran Naidu", "email": "kiran@example.com"},
+    {"name": "Rahul Kumar", "email": "rahul@example.com"},
+    {"name": "Priya Sharma", "email": "not-an-email"},
+    {"name": "Ananya Iyer", "email": "ananya@example.com"},
+    {"name": "राहुल वर्मा", "email": "rahul.verma@example.com"},
+    {"name": "Sneha Reddy"}
+  ]
+}
